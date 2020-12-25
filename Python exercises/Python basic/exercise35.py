@@ -1,3 +1,5 @@
+# return true if the two given integer values are equal or their sum or difference is 5
+
 def check_num(num1, num2):
 	sum = num1 + num2
 	diff = num1 - num2
